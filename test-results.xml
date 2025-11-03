@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<testsuite name="ArrayStatsTest" tests="5" failures="0" errors="0" skipped="0" time="0.125"> 
+  <testcase name="TestMin" classname="ArrayStatsTests.ArrayStatsTest" time="0.025"/> 
+  <testcase name="TestMax" classname="ArrayStatsTests.ArrayStatsTest" time="0.023"/> 
+  <testcase name="TestAverage" classname="ArrayStatsTests.ArrayStatsTest" time="0.027"/> 
+  <testcase name="TestIsSorted_True" classname="ArrayStatsTests.ArrayStatsTest" time="0.022"/> 
+  <testcase name="TestIsSorted_False" classname="ArrayStatsTests.ArrayStatsTest" time="0.028"/> 
+</testsuite> 
